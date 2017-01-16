@@ -1,0 +1,62 @@
+body{
+
+  padding:0;
+  margin:0;
+  margin-top:15px;
+}
+
+.scroll{
+    max-height: 250px;
+    overflow: scroll;
+}
+.para{
+ 
+  padding: 12px;
+  margin-top: 15px;
+ 
+  
+}
+.para p{
+  text-align: justify;
+  margin-right: 6px;
+}
+
+#button{
+  color:black;
+   margin: 0;
+    background-color: transparent;
+    
+    }
+
+    #hmmm{
+      background-color: transparent;
+      color:black;
+   margin: 0;
+    }
+    
+
+ #bmw{
+   background-color: transparent;
+      color:black;
+   margin: 0;
+ }   
+
+
+ #btn1{
+  background-color: transparent;
+      color:black;
+   margin: 0;
+ }
+
+ #btn2{
+  background-color: transparent;
+      color:black;
+   margin: 0;
+ }
+
+
+ #btn3{
+  background-color: transparent;
+      color:black;
+   margin: 0;
+ }
